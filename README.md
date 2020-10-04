@@ -1,10 +1,12 @@
-### Hi there 👋
+# Welcome to my GitHub! 👋
+
 
 <!--
 **esgaltur/esgaltur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+⚡ Fun fact: In 5th class I had a special subject for programming, but techer said that i will never be a programmer, because i don;t understand it.
+SO, here I am. Software Developer.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
